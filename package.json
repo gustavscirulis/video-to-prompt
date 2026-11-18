@@ -1,0 +1,13 @@
+{
+  "name": "v2p",
+  "version": "0.1.0",
+  "description": "Turn a narrated product walkthrough video into a prompt for Claude Code",
+  "type": "module",
+  "bin": {
+    "v2p": "./v2p.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "private": true
+}
